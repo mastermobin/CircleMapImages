@@ -1,5 +1,6 @@
 # CircleMapImages
-Project of Computer Foundation and Programming which can recreate bitmap images by putting a number of circles on a plane
+It was the project of Computer Foundation and Programming course which can recreate bitmap images by putting a number of circles on a plane
+
 Result:
 Input | Output
 ------------ | -------------
