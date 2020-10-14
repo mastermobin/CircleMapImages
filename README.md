@@ -5,5 +5,6 @@ Result:
 Input | Output
 ------------ | -------------
 ![I](/input.bmp) | ![O](/BitmapOutput.png)
+input.bmp (26KB) | Output.cmp (4KB)
 
 * It should be compiled on Windows & linked with gdi32 (-lgdi32 flag)
